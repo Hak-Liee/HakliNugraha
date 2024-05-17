@@ -1,0 +1,2 @@
+# HakliNugraha
+Repositori pribadi saya
