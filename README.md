@@ -10,9 +10,9 @@
 
 <h3 align="center">About me:</h3>
 <p align="center">
-  -🤑 jasa buat aplikasi mobile
-  -🏢 jasa buat aplikasi website
-  -🦸‍♂️ jasa remote server
+  -🤑 Create mobile app
+  -🏢 Create website
+  -🦸‍♂️ Remote server
   -🤡 admin service
   -🤷‍♀️ Assasin 
 
