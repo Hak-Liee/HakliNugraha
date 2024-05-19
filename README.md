@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hakli Nugraha</h1>
-<h3 align="center">"Programer Amatir"</h3>
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hak-liee&label=Profile%20views&color=0e75b6&style=flat" alt="hak-liee" /> </p>
